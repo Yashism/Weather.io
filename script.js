@@ -31,7 +31,8 @@ let weather = {
     document.body.style.backgroundSize = "100";
     document.body.style.width = "100%";
     document.body.style.height = "100%";
-
+    document.body.style.backgroundRepeat = "no-repeat";
+    document.body.style.backgroundSize = "cover";
 
   },
   search: function () {
