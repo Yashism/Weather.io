@@ -22,6 +22,4 @@
 
 <br>
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Make an awesome Weather Web App with HTML, CSS, JS, and APIs 🌞🌦☔<a href="https://twitter.com/hashtag/html5?src=hash&amp;ref_src=twsrc%5Etfw">#html5</a> <a href="https://twitter.com/hashtag/css?src=hash&amp;ref_src=twsrc%5Etfw">#css</a> <a href="https://twitter.com/hashtag/javascript?src=hash&amp;ref_src=twsrc%5Etfw">#javascript</a> <a href="https://twitter.com/hashtag/apis?src=hash&amp;ref_src=twsrc%5Etfw">#apis</a> <a href="https://twitter.com/hashtag/webdevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#webdevelopment</a> <a href="https://twitter.com/hashtag/hashnode?src=hash&amp;ref_src=twsrc%5Etfw">#hashnode</a> <a href="https://twitter.com/hashtag/WeatherForecast?src=hash&amp;ref_src=twsrc%5Etfw">#WeatherForecast</a> <a href="https://t.co/ueGIfPJ04c">https://t.co/ueGIfPJ04c</a></p>&mdash; Yash Waghmare (@TheYashw) <a href="https://twitter.com/TheYashw/status/1418963623934783488?ref_src=twsrc%5Etfw">July 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 <a href="https://www.buymeacoffee.com/yashism" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
