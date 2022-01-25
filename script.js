@@ -52,4 +52,4 @@ document
     }
   });
 
-weather.fetchWeather("Mumbai");
+weather.fetchWeather("New York");
