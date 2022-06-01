@@ -1,4 +1,4 @@
-# Weather.io
+# ![Weather.io](https://yashism.github.io/Weather.io/)
 
 ### An aweosome weather application which can tell you the weather of any location with a spice of location related background image, glassmorphism effect and tilt effect.
 
